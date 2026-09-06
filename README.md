@@ -39,35 +39,35 @@ Users find it difficult to book hospital appointments quickly using existing sys
 2. Generate multiple low-fidelity ideas.
 3. Select the best ideas for the solution.
 
-## IDEA 1 – QUICK DOCTOR SEARCH
+## IDEA 1 
 
 Quick appointment booking button.
 
-## IDEA 2 – SPECIALTY SELECTION
+## IDEA 2 
 
 Search doctors by specialization.
 
-## IDEA 3 – AVAILABLE TODAY
+## IDEA 3 
 
 Display available time slots using a calendar.
 
-## IDEA 4 – TIME-SLOT VIEW
+## IDEA 4 
 
 Appointment reminder notifications.
 
-## IDEA 5 – DOCTOR COMPARISON
+## IDEA 5 
 
 Online doctor consultation.
 
-## IDEA 6 – ONE-TAP REBOOKING
+## IDEA 6 
 
 View previous appointments.
 
-## IDEA 7 – APPOINTMENT REMINDER
+## IDEA 7 
 
 Save favorite doctors.
 
-## IDEA 8 – EASY RESCHEDULING
+## IDEA 8 
 
 Emergency appointment option.
 
